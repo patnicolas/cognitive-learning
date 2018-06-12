@@ -1,0 +1,9 @@
+{
+  "apiKey" : "4e852208-8ffa-4cac-81f2-09bb1dc0613f",
+  "codeSets" : ["ICD-10-CM","CPT"],
+  "showSourceInfo" : "all",
+  "includeCategory" : "true",
+  "includeConcept" : "true",
+  "sectionMode" : "exclude",
+  "sectionGroups" : ["23","25"]
+}

@@ -1,0 +1,6 @@
+{
+  "apiKey" : "4e852208-8ffa-4cac-81f2-09bb1dc0613f",
+  "codeSets" : ["ICD-10-CM","CPT"],
+  "showSourceInfo" : "position",
+  "includeConcept" : "true"
+}
