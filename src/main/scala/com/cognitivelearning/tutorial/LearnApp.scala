@@ -1,9 +1,6 @@
-package com.cognitivelearning
+package com.cognitivelearning.tutorial
 
-import com.cognitivelearning.coding.AstGenerator
-import com.github.javaparser.JavaParser
-import com.github.javaparser.ast.CompilationUnit
-import com.github.javaparser.printer.YamlPrinter
+import com.cognitivelearning.tutorial.coding.AstGenerator
 
 /**
   * Created by pnicolas on 6/3/18.

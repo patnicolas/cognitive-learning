@@ -1,4 +1,4 @@
-package com.cognitivelearning.ast
+package com.cognitivelearning.tutorial.ast
 
 
 import org.scalatest.{FlatSpec, Matchers}

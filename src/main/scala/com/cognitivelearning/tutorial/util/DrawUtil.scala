@@ -1,9 +1,9 @@
-package com.cognitivelearning.util
+package com.cognitivelearning.tutorial.util
 
 import java.awt.Color
 import javax.swing.{JFrame, JPanel}
 
-import com.cognitivelearning.ast.AstObject
+import com.cognitivelearning.tutorial.ast.AstObject
 import com.mxgraph.swing.mxGraphComponent
 import com.mxgraph.view.mxGraph
 

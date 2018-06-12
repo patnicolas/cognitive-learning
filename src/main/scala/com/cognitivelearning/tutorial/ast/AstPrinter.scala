@@ -1,4 +1,4 @@
-package com.cognitivelearning.ast
+package com.cognitivelearning.tutorial.ast
 
 import com.github.javaparser.ast.Node
 import com.github.javaparser.metamodel.PropertyMetaModel

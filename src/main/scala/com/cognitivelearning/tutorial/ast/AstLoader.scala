@@ -1,4 +1,4 @@
-package com.cognitivelearning.ast
+package com.cognitivelearning.tutorial.ast
 
 import java.io.{FileNotFoundException, IOException}
 

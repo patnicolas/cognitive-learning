@@ -1,10 +1,6 @@
-package com.cognitivelearning.util
+package com.cognitivelearning.tutorial.util
 
-import javax.swing.JFrame
-
-import com.cognitivelearning.ast._
-import com.mxgraph.swing.mxGraphComponent
-import com.mxgraph.view.mxGraph
+import com.cognitivelearning.tutorial.ast._
 import org.scalatest.{FlatSpec, Matchers}
 
 /**

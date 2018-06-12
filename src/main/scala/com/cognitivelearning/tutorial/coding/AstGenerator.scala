@@ -1,4 +1,4 @@
-package com.cognitivelearning.coding
+package com.cognitivelearning.tutorial.coding
 
 import com.github.javaparser.JavaParser
 import com.github.javaparser.ast.CompilationUnit
@@ -45,7 +45,7 @@ private[cognitivelearning] final class AstGenerator protected(code: String) {
   }
 
   private def getGraph(input: String = "ast"): Unit = {
-      import java.io.{PrintWriter, FileWriter, IOException}
+      import java.io.{FileWriter, IOException, PrintWriter}
 
       var printWriter: PrintWriter = null
       try {
